@@ -1,0 +1,18 @@
+package com.teamtrack.repository;
+
+import com.teamtrack.entity.Comment;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+import java.util.Optional;
+
+public interface CommentRepository extends JpaRepository<Comment, Long> {
+    List<Comment> findByDeletedFalse();
+    Optional<Comment> findByIdAndDeletedFalse(Long id);
+
+    List<Comment> findByUserIdAndDeletedFalse(Long id);
+
+    List<Comment> findByTaskIdAndDeletedFalse(Long id);
+
+    List<Comment> findAllByUserIdAndDeletedFalse(Long id);
+}

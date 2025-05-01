@@ -1,0 +1,2 @@
+ALTER TABLE tt_task
+ADD COLUMN state VARCHAR(255) DEFAULT 'toDo';
