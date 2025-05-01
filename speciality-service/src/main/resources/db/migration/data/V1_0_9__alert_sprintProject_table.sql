@@ -1,0 +1,2 @@
+ALTER TABLE tt_sprint
+ADD COLUMN state VARCHAR(255) ;

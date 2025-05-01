@@ -1,0 +1,2 @@
+ALTER TABLE tt_task
+ADD COLUMN priority VARCHAR(50) ;

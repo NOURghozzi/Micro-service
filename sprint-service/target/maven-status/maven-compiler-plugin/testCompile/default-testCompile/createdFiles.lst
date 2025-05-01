@@ -1,0 +1,17 @@
+com\teamtrack\integration\TeamControllerIntegrationTest.class
+com\teamtrack\TeamtrackApplicationTests.class
+com\teamtrack\integration\CommentControllerIntegrationTest.class
+com\teamtrack\servicestest\TeamServiceTest.class
+com\teamtrack\integration\SprintControllerIntegrationTest.class
+com\teamtrack\servicestest\CommentServiceTest.class
+com\teamtrack\servicestest\TaskServiceTest.class
+com\teamtrack\servicestest\UserServiceTest.class
+com\teamtrack\servicestest\RoleServiceTest.class
+com\teamtrack\integration\TaskControllerIntegrationTest.class
+com\teamtrack\servicestest\ProjectServiceTest.class
+com\teamtrack\integration\ProjectControllerIntegrationTest.class
+com\teamtrack\integration\UserControllerIntegrationTest.class
+com\teamtrack\integration\PermissionControllerIntegrationTest.class
+com\teamtrack\integration\RoleControllerIntegrationTest.class
+com\teamtrack\servicestest\PermissionServiceTest.class
+com\teamtrack\servicestest\SprintServiceTest.class

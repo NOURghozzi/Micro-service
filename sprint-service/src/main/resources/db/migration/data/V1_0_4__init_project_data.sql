@@ -1,0 +1,2 @@
+ALTER TABLE tt_user
+ADD COLUMN state VARCHAR(255) DEFAULT 'inactif';

@@ -1,0 +1,17 @@
+com\teamtrack\dto\ErrorResponseDTO.class
+com\teamtrack\exception\HttpCustomException.class
+com\teamtrack\entity\Project$ProjectBuilder.class
+com\teamtrack\converter\ProjectMapper.class
+com\teamtrack\dto\ProjectDTO.class
+com\teamtrack\config\GlobalExceptionHandler.class
+com\teamtrack\dto\ErrorResponseDTO$ErrorResponseDTOBuilder.class
+com\teamtrack\config\ModelMapperConfig.class
+com\teamtrack\config\SecurityConfig.class
+com\teamtrack\entity\Project.class
+com\teamtrack\Feign\TeamClient.class
+com\teamtrack\repository\ProjectRepository.class
+com\teamtrack\service\ProjectService.class
+com\teamtrack\controller\ProjectController.class
+com\teamtrack\TeamtrackApplication.class
+com\teamtrack\config\FeignClientConfig.class
+com\teamtrack\dto\ProjectDTO$ProjectDTOBuilder.class

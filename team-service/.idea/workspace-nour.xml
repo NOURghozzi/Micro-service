@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a186fdc-9f74-489f-9d0d-cdec24bd91fa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jJsybTuV4sFWTuv1K46DdjctfB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TeamController.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeamtrackApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserService.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in teamtrack.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommenataireServiceTest.shouldSaveTasksSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommenataireServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnTasks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommenataireServiceTest.shouldWhenGetAllTasks_thenReturnTasksList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommenataireServiceTest.testSaveTasks_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommenataireServiceTest.testUpdateTaskSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommenataireServiceTest.testUpdateTasksNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommenataireServiceTest.whenDeleteRoleThenTasksIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentControllerIntegrationTest.fetchTaskById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentControllerIntegrationTest.testAddComment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentControllerIntegrationTest.testAddPermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentControllerIntegrationTest.testDeleteTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentControllerIntegrationTest.testUpdateComment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentServiceTest.testUpdateCommentSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CommentServiceTest.whenDeleteCommentsThenCommentsIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeRepositoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeRepositoryTest.whenFindByIdAndDeletedFalse_thenReturnEquipe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeServiceTest.shouldSaveTasksSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnEquipe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnEquipeListe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeServiceTest.testSaveEquipe_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeServiceTest.testUpdateEquipeNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeServiceTest.testUpdateEquipeuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EquipeServiceTest.whenDeleteRoleThenEquipeIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.Permission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.addPermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.addUserEndpoint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.fetchAllPermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.fetchAllPermissions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.fetchPermissionById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.setUp.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.testAddPermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.testCreatePermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.testDeletePermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.testGetPermissionByRole.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PermissionControllerIntegrationTest.testUpdatePermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceIntegrationTest.testCreatePermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.shouldSavePermissionsSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.shouldSaveTasksSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnTasks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.shouldWhenGetAllTasks_thenReturnTasksList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.testSavePermission_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.testUpdatePermissionNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.testUpdatePermissionsSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PermissionServiceTest.whenDeleteRoleThenPermissionsIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectControllerIntegrationTest.fetchAllProject.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectControllerIntegrationTest.fetchProjectById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectControllerIntegrationTest.testAddTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectControllerIntegrationTest.testDeleteProject.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectControllerIntegrationTest.testGetSprintsByProject.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectControllerIntegrationTest.testUpdateProject.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.shouldSaveProjectSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnEquipe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.shouldWhenGetAllProject_thenReturnProjectList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.testSaveProject_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.testSaveProject_ValidDates_Success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.testUpdateProjectNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.testUpdateProjectSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.testUpdateUserNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.whenDeleteProjectThenProjectIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceTest.whenDeleteRoleThenProjectIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.addRole.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.addUserEndpoint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.fetchAllRole.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.fetchRoleById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.testAddRole.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.testDeletePermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleControllerIntegrationTest.testUpdatePermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.shouldSaveRoleSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnRole.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.shouldWhenFindByIdAndDeletedFalse_thenReturnRoleList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.testSavePermission_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.testUpdateRoleSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.testUpdateUserNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.testUpdateUserSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTest.whenDeleteUserThenUserIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.fetchAllUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.fetchUserById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.testAddSprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.testAddUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.testDeleteSprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.testGetTasksBySprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintControllerIntegrationTest.testUpdateUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnSprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnTasks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.shouldWhenGetAllSprint_thenReturnSprintList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.testSaveSprint_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.testSaveSprint_StartDateAfterEndDate_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.testSaveSprint_ValidDates_Success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.testUpdateSprintNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.testUpdateTaskSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.testUpdateTasksNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SprintServiceTest.whenDeleteRoleThenSprintIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskControllerIntegrationTest.fetchAllSprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskControllerIntegrationTest.fetchSprintById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskControllerIntegrationTest.testAddSprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskControllerIntegrationTest.testDeleteSprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskControllerIntegrationTest.testGetCommentsByTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskControllerIntegrationTest.testUpdateSprint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.shouldSaveTasksSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.testSaveTasks_StartDateAfterEndDate_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.testSaveTasks_ValidDates_Success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.testUpdateTaskSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.testUpdateTeamuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceTest.whenDeleteRoleThenTasksIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.shouldSaveTasksSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnTasks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.shouldWhenGetAllTasks_thenReturnTasksList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.testSaveTasks_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.testSaveTasks_StartDateAfterEndDate_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.testSaveTasks_ValidDates_Success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.testUpdateTaskSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.testUpdateTasksNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TasksServiceTest.whenDeleteRoleThenTasksIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.fetchAllTeam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.fetchTeamById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.testAddTeam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.testDeleteTeam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.testGetProjectsByTeam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.testGetUsersByTeam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamControllerIntegrationTest.testUpdateTeam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.shouldSaveTeamSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnTeam.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnTeamListe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.testSaveTeam_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.testUpdateTeamNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.testUpdateTeamuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamServiceTest.whenDeleteRoleThenTeamIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TeamtrackApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.fetchAllUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.fetchPermissionById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.fetchUserById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.testAddPermission.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.testDeleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.testGetCommentsByUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.testGetTasksByUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerIntegrationTest.testUpdateUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.setUp.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.shoudSaveUsetSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.shoudwhenFindByIdAndDeletedFalse_thenReturnEquipe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.shoudwhenFindByIdAndDeletedFalse_thenReturnEquipeListe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.shoudwhenFindByIdAndDeletedFalse_thenReturnUserListe.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.shouldSaveUserSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.shouldWhenFindByIdAndDeletedFalseThenReturnUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.shouldWhenFindByIdAndDeletedFalse_thenReturnUserList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testLoginPasswordNotMatch.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testLoginSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testSaveTasks_InvalidId_ThrowsException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testSaveUserSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testSaveUserWithExistingId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testSaveUserWithNullEmail.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testUpdateUserNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testUpdateUserSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testUpdateUser_Success.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.whenDeleteEquipe_thenUserIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.whenDeleteUserThenUserIsDeleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.db.migration.data in teamtrack.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in teamtrack.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.resources in teamtrack.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.teamtrack [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;validation__and__exception&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Downloads/product&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;904f77c4da13388e2e0de8f5f1eb7694&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;SQL&quot;,
+      &quot;Properties&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\stage\teamtrack\src\main\resources\db\migration\data" />
+      <recent name="C:\Users\user\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\stage\teamtrack\src\main\resources\db\migration\structure" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.teamtrack.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TeamtrackApplication">
+    <configuration name="TeamController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teamtrack.controller.TeamController" />
+      <module name="teamtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teamtrack.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teamtrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teamtrack.Teamtrack" />
+      <module name="teamtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teamtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teamtrack.entity.User" />
+      <module name="teamtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teamtrack.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.teamtrack.service.UserService" />
+      <module name="teamtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teamtrack.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamtrackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="teamtrack" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.teamtrack.TeamtrackApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.teamtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Teamtrack" />
+      <item itemvalue="Application.TeamController" />
+      <item itemvalue="Application.User" />
+      <item itemvalue="Application.UserService" />
+      <item itemvalue="Spring Boot.TeamtrackApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TeamtrackApplication" />
+        <item itemvalue="Application.UserService" />
+        <item itemvalue="Application.TeamController" />
+        <item itemvalue="Application.User" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a186fdc-9f74-489f-9d0d-cdec24bd91fa" name="Changes" comment="" />
+      <created>1721116769961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721116769961</updated>
+      <workItem from="1738191085710" duration="1732000" />
+      <workItem from="1738587147309" duration="268000" />
+      <workItem from="1743635048251" duration="8797000" />
+      <workItem from="1744015835152" duration="4151000" />
+      <workItem from="1744276037506" duration="1379000" />
+      <workItem from="1744550372934" duration="624000" />
+      <workItem from="1744551455730" duration="4551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/teamtrack/service/JwtService.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/teamtrack/service/JwtService.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/teamtrack/service/JwtService.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/teamtrack$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1722126065177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.teamtrack.servicestest.*</FILTER>
+    </SUITE>
+  </component>
+</project>
