@@ -1,0 +1,28 @@
+server:
+  port: 8080
+spring:
+  cloud:
+    gateway:
+      routes:
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+logging:
+  level:
+    org.springframework: DEBUG
+
+jwt:
+  secret: MySuperSecretKeyWithMoreThan32Chars123!
+  expiration: 86400000
+  token:
+    validity: 18000
+    prefix: Bearer
+  signing:
+    key: signingkey
+  authorities:
+    key: roles
+  header:
+    string: Authorization
